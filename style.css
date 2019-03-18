@@ -408,3 +408,13 @@ width: 10px;
 .col {
 	margin: 0;
 }
+.head-text-chart {
+	margin-top: 2em;
+	padding:0 10em 0 10em;
+}
+.performance {
+	float: right;
+	border-bottom: 2px solid blue;
+	padding-bottom: 2px;
+
+}
